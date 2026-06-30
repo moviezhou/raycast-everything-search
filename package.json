@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.raycast.com/schemas/extension.json",
-  "name": "everything-search",
+  "name": "raycast-everything-search",
   "title": "Everything Search",
   "description": "Instant file search powered by Everything (Voidtools) engine",
   "icon": "command-icon.png",
