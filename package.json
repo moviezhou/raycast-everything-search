@@ -40,6 +40,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "publish": "npx @raycast/api@latest publish",
+    "build": "npx @raycast/api@latest build",
+    "dev": "npx @raycast/api@latest dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
